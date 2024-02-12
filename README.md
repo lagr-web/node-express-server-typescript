@@ -1,6 +1,6 @@
 # TypeScript Node Express Server for API
 
-Default setup for creating API calls with Express using TypeScript.
+> Default setup for creating API calls with Express using TypeScript.
 
 ## Dependencies:
 - bodyparser
